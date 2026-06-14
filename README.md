@@ -18,10 +18,11 @@ Built with **React + Vite** (frontend) and **Python Flask + MySQL** (backend).
 ---
 ## screenshots
 
-## Dashboard 
-![Dashboard](screenshots/dashboard.png) 
-## AI Response 
-![AI Response](screenshots/response.png)
+![dashboard](screenshots/image1.png) 
+![html conversion](screenshots/image2.png)
+![css converstion](screenshots/image3.png)
+![zip upload](screenshots/image4.png)
+![History](screenshots/image5.png)
 
 ---
 
